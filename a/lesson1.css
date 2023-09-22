@@ -1,0 +1,23 @@
+img{
+    width:100%
+}
+.shop{
+    background-color: #f78486;
+    width: 100%;
+}
+
+.wrap{
+    background-color: #055c0a;
+    padding:10px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.cakes{
+    background-color: #ffed9f;
+    float:left;
+    width:48%;
+    padding: 10px;
+    box-sizing:border-box;
+}
